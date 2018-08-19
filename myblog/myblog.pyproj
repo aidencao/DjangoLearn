@@ -73,6 +73,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="blog2\templates\blog2\index.html" />
+    <Content Include="blog\templates\blog\article_page.html" />
     <Content Include="blog\templates\blog\index.html" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.Django.targets" />
